@@ -1,0 +1,25 @@
+{
+  "name": "tictac-toe",
+  "version": "0.1.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexvirus90/spa-tictac-toe.git"
+  },
+  "author": "Komarov Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexvirus90/spa-tictac-toe.git"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
